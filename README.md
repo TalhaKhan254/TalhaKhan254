@@ -24,7 +24,7 @@ I am a multi-disciplinary Data Scientist bridging the gap between **Quantitative
 #### 🏦 [MSc Thesis] Explainable AI for P2P Credit Default
 *A benchmark study on the Bondora dataset (2009–2023) focusing on model transparency.*
 * **Execution:** Optimized **XGBoost** and **MLP** models while quantifying the "Explainability Gap" through **MASV** and **FICI** metrics.
-* *Tech: Python, SHAP, LIME, Optuna, SMOTE-Tomek.*
+* *Tech: Python, SHAP, LIME, SMOTE-Tomek.*
 
 #### 🧠 [Research] CNNs in Emotional & Affective Computing
 *Investigating AI's role in translating human feelings for improved sales and service.*
